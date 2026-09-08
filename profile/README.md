@@ -28,4 +28,4 @@ We build VR platforms that let you train decisions, teamwork and life-saving act
 - Website: [nordicemergency.dk](https://nordicemergency.dk)
 - LinkedIn: [Nordic Emergency ApS](https://www.linkedin.com/company/142194085/)
 - Discord: [Join our server](https://discord.gg/4h6zy3rZY)
-- Contact: [info@nordicemergency.dk](mailto:info@nordicemergency.dk)
+- Contact: [hello@nordicemergency.dk](mailto:hello@nordicemergency.dk)
