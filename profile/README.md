@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NordicEmergency/NordicEmergency.github.io/main/docs/assets/icons/bimi.svg" alt="Nordic Emergency logo" width="96" />
+  <img src="https://raw.githubusercontent.com/NordicEmergency/NordicEmergency.github.io/main/docs/assets/icons/bimi.svg" alt="Nordic Emergency Solutions logo" width="96" />
 </p>
 
-<h1 align="center">Nordic Emergency ApS</h1>
+<h1 align="center">Nordic Emergency Solutions ApS</h1>
 
 <p align="center">
   VR-based emergency response and CPR training — clinical precision when it matters.
@@ -26,6 +26,6 @@ We build VR platforms that let you train decisions, teamwork and life-saving act
 ## Links
 
 - Website: [nordicemergency.dk](https://nordicemergency.dk)
-- LinkedIn: [Nordic Emergency ApS](https://www.linkedin.com/company/142194085/)
+- LinkedIn: [Nordic Emergency Solutions ApS](https://www.linkedin.com/company/142194085/)
 - Discord: [Join our server](https://discord.gg/4h6zy3rZY)
 - Contact: [hello@nordicemergency.dk](mailto:hello@nordicemergency.dk)
